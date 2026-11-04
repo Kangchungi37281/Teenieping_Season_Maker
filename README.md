@@ -1,7 +1,7 @@
 # Teenieping_Season_Maker
 태풍-티니핑 스왑을 위한 도구입니다. 개발중이며, 주로 저의 태풍-티니핑 스왑 위키를 위해 제작되었습니다. 이 도구는 원래 Kangchungi github에 있던 연도별 나무위키 태풍 템플릿에서 유래했습니다.
 
-이 스왑이 궁금하다면 다음 문서 가십시오
+이 스왑이 궁금하다면 다음 문서 가십시오(아직 진행중입니다.)
 
 [티니핑,위시캣,바다이 이름 목록](https://docs.google.com/spreadsheets/d/1mEnI6sxd27PmPWEPojKxOuFJGpffX8Ac/edit?usp=drivesdk&ouid=105346308043644333043&rtpof=true&sd=true)
 
