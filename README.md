@@ -3,9 +3,9 @@
 
 이 스왑이 궁금하다면 다음 문서 가십시오
 
-티니핑,위시캣,바다이 이름 목록:
+[티니핑,위시캣,바다이 이름 목록](https://docs.google.com/spreadsheets/d/1mEnI6sxd27PmPWEPojKxOuFJGpffX8Ac/edit?usp=drivesdk&ouid=105346308043644333043&rtpof=true&sd=true)
 
-시뮬레이터된 티니핑 시즌:
+[시뮬레이터된 티니핑 시즌](https://docs.google.com/spreadsheets/d/1BSobhEU6s456Mq4MpRaQef4QTVUaB-AR/edit?usp=drivesdk&ouid=105346308043644333043&rtpof=true&sd=true)
 
 ## 주의사항!
 인공지능으로 제작되었습니다.
